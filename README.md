@@ -20,7 +20,7 @@ A Java application built to replace the chaos of scattered, untracked lost-and-f
 
 Every item gets a record. Every record is searchable. No config, no clutter.
 
-> ⚠️ **No authentication in this version.** Anyone running the app can view and add entries. User login/signup is on the roadmap.
+> ⚠️ **No authentication in this version.** Anyone running the app can view and add entries.
 
 ---
 
