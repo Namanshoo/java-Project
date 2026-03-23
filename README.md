@@ -6,7 +6,7 @@ java-project (folder) -> Lost and found application -> click run.vbs(to easily r
 
 # 🔍 Lost & Found Application
 
-> A centralized Java system for reporting and recovering misplaced items — no middlemen, no noticeboards, no confusion.
+A centralized Java system for reporting and recovering misplaced items — no middlemen, no noticeboards, no confusion.
 
 ![Java](https://img.shields.io/badge/Java-OOP-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
